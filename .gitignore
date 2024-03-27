@@ -1,0 +1,4 @@
+#folders
+credentials/credentials.json
+dist
+node_modules
